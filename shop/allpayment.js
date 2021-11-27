@@ -1,31 +1,19 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
-
-*🏧 BANK*
-
-1. BRI 
-	ㅁ 8881 0887 4350 47326
-2. BCA 
-	ㅁ 3901 0887 4350 47326
-3. BNI 
-	ㅁ 881 0887 4350 47326
-4. PERMATA
-	ㅁ 852 8887 4350 47326
+return `PAYMENT BY ALIF YT OFC
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
-2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ 085246010059
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0823 5006 0897
 	
 Semuanya atas nama RI****DI
 
 *📲 PULSA*
 
-Tidak tersedia
+1. TELKOM: 082350060897
+2. INDOSAT: 085711509132
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
